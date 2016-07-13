@@ -1,6 +1,6 @@
 package template
 
-import "protobuf"
+import "github.com/zhaijian/getui/protobuf"
 import proto "code.google.com/p/goprotobuf/proto"
 
 type TransmissionTemplate struct {

@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"igetui"
+	"github.com/zhaijian/getui/igetui"
 	"io"
 	"io/ioutil"
 	"net/http"
